@@ -12,3 +12,5 @@ All shell scripts are calling the python script to work.
 You will find some photos and screenshots under the folder "photos"
 
 Enjoy !
+
+To contact me for any questions, you can mail me at : olivier dot levy at kyron dot fr
